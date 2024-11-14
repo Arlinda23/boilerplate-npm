@@ -1,5 +1,6 @@
-{       "author": "Arlinda Misku",
+{       
 	"name": "fcc-learn-npm-package-json",
+	"author": "Arlinda Misku",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
